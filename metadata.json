@@ -1,0 +1,6 @@
+{
+  "name": "FlowTicket",
+  "description": "FlowTicket - Intelligent IT Ticket Classification & Automation Using Flow Designer",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
